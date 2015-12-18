@@ -1,2 +1,3 @@
 modify
 second line
+new line
