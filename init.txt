@@ -2,3 +2,4 @@ modify
 second line
 new line
 new line
+new feature
