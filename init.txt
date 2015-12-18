@@ -3,3 +3,4 @@ second line
 new line
 new line
 master branch change
+new feature
